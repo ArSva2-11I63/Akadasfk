@@ -1,7 +1,3 @@
-fruits = ["Banana", "Orange", "Apple", "Mango"];
-for (i = 0; i < fruits.length; i++)
-
-
 
 switch (new Date().getDay()) {
     case 0:
